@@ -1,3 +1,8 @@
+/*
+Copyright © 2021 Signing Cloud Sdn. Bhd @ https://www.signingcloud.com/
+All rights reserved
+*/
+
 package com.signingcloud.restapi;
 
 import java.util.ArrayList;
